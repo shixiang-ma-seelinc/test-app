@@ -1,0 +1,13 @@
+{
+  "name": "test-app",
+  "private": true,
+  "scripts": {
+    "build": "checkout-ui-extensions-run build",
+    "serve": "checkout-ui-extensions-run serve"
+  },
+  "devDependencies": {
+    "@shoplinedev/checkout-ui-extensions-run": "^1.0.1",
+    "@types/react": "^19.0.0",
+    "typescript": "^5.7.2"
+  }
+}
